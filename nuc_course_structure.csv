@@ -1,0 +1,52 @@
+Course Code,Course Title,Credit Unit,Status,Lecture Hours,Practical Hours
+MTH 102,Elementary Mathematics II,3,R,45.0,
+PHY 101,General Physics I,3,R,45.0,
+PHY 102,General Physics II,3,R,45.0,
+PHY 107,General Physics Practical I,1,R,,45.0
+PHY 108,General Physics Practical II,1,R,,45.0
+BCH 201,General Biochemistry I,3,C,45.0,
+BCH 202,General Biochemistry II,3,C,45.0,
+BCH 203,General Biochemistry Practical I,1,C,,45.0
+BIO 201,Genetics I,2,R,30.0,
+BIO 204,Biological Techniques,2,R,15.0,45.0
+CHM 210,Physical Chemistry I,3,C,30.0,45.0
+CHM 211,Organic Chemistry I,3,C,30.0,45.0
+CHM 212,Inorganic Chemistry I,3,R,30.0,45.0
+GST 122,Communication in English II,2,C,30.0,
+GST 125,Contemporary Health Issues,2,R,30.0,
+GST 211,Environment and Sustainable,2,R,30.0,
+GST 223,Introduction to Entrepreneurship,2,R,30.0,
+MCB 221,General Microbiology,3,R,30.0,45.0
+STA 201,Statistics for Agriculture &,4,R,60.0,
+BCH 301,Introductory Enzymology,3,C,45.0,
+BCH 302,Chemistry and Metabolism of,2,R,30.0,
+BCH 303,Chemistry and Metabolism of Lipids,2,R,30.0,
+BCH 304,Chemistry & Metabolism of amino,2,C,30.0,
+BCH 305,Chemistry & Metabolism of Nucleic,2,C,30.0,
+BCH 306,Analytical Methods in Biochemistry,3,C,30.0,45.0
+BCH 307,Membrane Biochemistry,1,R,15.0,
+BCH 308,Food & Nutritional Biochemistry,2,R,30.0,
+BCH 310,Bioenergetics,1,R,15.0,
+BCH 311,General Biochemistry Practical II,2,C,,90.0
+BCH 312,Principles of Endocrinology,2,R,30.0,
+BCH 313,Principles of Immunology,2,R,30.0,
+BCH 314,Toxicology I,2,R,30.0,
+CHM 301,Physical Chemistry II,3,R,30.0,45.0
+CHM 303,Organic Chemistry II,3,R,30.0,45.0
+GST 222,Peace Studies and Conflict Resolution,2,R,30.0,
+GST 224,Leadership Skills,2,R,30.0,
+GST 311,Entrepreneurship,2,R,30.0,
+BCH 401,Enzymology,2,C,30.0,
+BCH 402,Biosynthesis of Macromolecules,1,R,15.0,
+BCH 403,Tissue Biochemistry,1,E,15.0,
+BCH 404,Bioinorganic Chemistry,1,E,15.0,
+BCH 405,Molecular Biology,3,C,45.0,
+BCH 406,Metabolic Regulations,2,R,30.0,
+BCH 407,Plant Biochemistry,2,E,30.0,
+BCH 408,Biochemical Reasoning,1,R,15.0,
+BCH 409,Special Topics/Seminar in,2,R,30.0,
+BCH 410,Advanced Biochemical Methods,2,R,,90.0
+BCH 411,Research Project,6,C,,270.0
+BCH 412,Industrial Biochemistry,3,R,45.0,
+BCH 413,Pharmacological Biochemistry,2,R,30.0,
+BCH 414,Endocrinology,2,R,30.0,
