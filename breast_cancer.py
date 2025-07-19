@@ -3,6 +3,7 @@ import streamlit as st
 import joblib
 import numpy as np
 
+
 def breast_cancer():
     model = joblib.load("breast_cancer_model.pkl")
     feature_names = [
@@ -44,6 +45,12 @@ def breast_cancer():
             st.error("🔴 The tumor is likely **Malignant**.")
         else:
             st.success("🟢 The tumor is likely **Benign**.")
+    
+    st.markdown("---")
+    st.markdown(
+        "<center><small>🧡 Coded with love by <strong>Lukman Olamide</strong></small></center>",
+        unsafe_allow_html=True
+    )
 
 if __name__ == "__main__":
     breast_cancer()
